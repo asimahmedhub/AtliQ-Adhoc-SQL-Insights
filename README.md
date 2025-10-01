@@ -1,11 +1,8 @@
-📊 AtliQ Ad-hoc SQL Insights
-📝 Project Overview
+📊 AtliQ Ad-hoc SQL Insights 📝 Project Overview
 
-This project is part of the Codebasics Resume Projects.
-I step into the role of a junior data analyst at AtliQ Hardwares — one of the leading computer hardware producers in India with global expansion.
+This project is part of the Codebasics Resume Projects. I step into the role of a junior data analyst at AtliQ Hardwares — one of the leading computer hardware producers in India with global expansion.
 
-The management team needed quick, data-informed insights for 10 ad-hoc business requests.
-To showcase SQL and storytelling skills, I wrote queries in MySQL, analyzed the results, and presented actionable insights tailored for top-level management.
+The management team needed quick, data-informed insights for 10 ad-hoc business requests. To showcase SQL and storytelling skills, I wrote queries in MySQL, analyzed the results, and presented actionable insights tailored for top-level management.
 
 🎯 Objectives
 
@@ -19,8 +16,7 @@ Present insights in a management-ready presentation.
 
 🗂️ Dataset & Metadata
 
-Provided by Codebasics (imaginary AtliQ Hardwares dataset).
-Key tables include:
+Provided by Codebasics (imaginary AtliQ Hardwares dataset). Key tables include:
 
 dim_customer → customer details (region, market, channel, etc.)
 
@@ -64,17 +60,9 @@ PowerPoint – storytelling & presentation design
 
 GitHub – version control and project showcase
 
-📂 Project Structure
-AtliQ-Adhoc-SQL-Insights/
-│
-├── SQL/  
-│   └── Atliq_AdHoc_Queries_AsimAhmed.sql     # All 10 SQL queries
-│
-├── Presentation/  
-│   └── Atliq_AdHoc_SQL_Insights.pptx         # Management-ready slides
-│
-├── README.md                                 # Project documentation
-
+📂 Project Structure AtliQ-Adhoc-SQL-Insights/ │ ├── SQL/
+│ └── Atliq_AdHoc_Queries_AsimAhmed.sql # All 10 SQL queries │ ├── Presentation/
+│ └── Atliq_AdHoc_SQL_Insights.pptx # Management-ready slides │ ├── README.md # Project documentation
 
 📈 Key Insights (examples)
 
@@ -101,5 +89,3 @@ Codebasics Resume Projects for providing the dataset & case study.
 Inspired by real-world data analyst tasks — SQL querying + business storytelling.
 
 ⚡ This project demonstrates my SQL querying, data analysis, and communication skills by solving real-world business problems with clear, actionable insights.
-# AtliQ-Adhoc-SQL-Insights
-SQL Case study answering 10 real-world ad-hoc business requests for AtliQ Hardwares (Codebasics Resume Project
