@@ -52,9 +52,13 @@ Key tables include:
 
 ## 📂 Project Structure  
 📦 AtliQ-Hardwares-SQL-Analytics
+
 ┣ 📝 sql (Q01–Q10 .sql answers)
+
 ┣ 📊 AtliQ_AdHoc.pbix (Power BI dashboard)
+
 ┣ 🖥️ Atliq_AdHoc_SQL_Insights.pptx (presentation)
+
 ┣ 📄 README.md (case study & how-to)
 
 
