@@ -68,13 +68,14 @@ AtliQ-Adhoc-SQL-Insights/
 
 ---
 
-## 📈 Key Insights (examples)  
-- AtliQ increased its **unique product portfolio by ~Z%** in FY2021.  
-- **Channel X** drove the majority of gross sales in FY2021.  
-- **Segment Y** saw the highest product expansion in 2021.  
-- Certain customers in **India** received **very high discounts**, raising profitability concerns.  
+## 📈 Key Insights 
+- AtliQ increased its unique product portfolio by ~36.33% in FY2021 (from 245 → 334 SKUs).
 
-*(Replace X, Y, Z with your actual results after running queries.)*
+- Retailer channel drove the majority of gross sales in FY2021 (~69% share).
+
+- Accessories saw the highest product expansion in 2021 (+34 unique products vs. 2020; Notebooks/Peripherals +16 each).
+
+- Several Indian customers received very high average pre-invoice discounts (~29–31%), e.g., Flipkart (~30.8%), Viveks (~30.4%), Croma (~30.3%), Ezone (~30.3%), Amazon (~29.3%)—a potential margin risk
 
 ---
 
