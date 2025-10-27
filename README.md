@@ -1,11 +1,7 @@
 # 📊 AtliQ Ad-hoc SQL Insights  
 
 ## 📝 Project Overview  
-This project is part of the **Codebasics Resume Projects**.  
-I step into the role of a **junior data analyst** at *AtliQ Hardwares* — one of the leading computer hardware producers in India with global expansion.  
-
-The management team needed **quick, data-informed insights** for 10 ad-hoc business requests.  
-To showcase SQL and storytelling skills, I wrote queries in **MySQL**, analyzed the results, and presented actionable insights tailored for top-level management.  
+AtliQ Hardwares—India’s leading computer hardware maker with global reach—needed fast, data-backed answers to 10 ad-hoc business questions. I stepped in as a data analyst, wrote validated MySQL queries, analyzed results, and delivered executive-ready insights in Power BI.  
 
 ---
 
