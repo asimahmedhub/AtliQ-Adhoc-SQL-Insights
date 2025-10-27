@@ -51,20 +51,12 @@ Key tables include:
 ---
 
 ## 📂 Project Structure  
-AtliQ-Adhoc-SQL-Insights/
-│
+📦 AtliQ-Hardwares-SQL-Analytics
+┣ 📝 sql (Q01–Q10 .sql answers)
+┣ 📊 AtliQ_AdHoc.pbix (Power BI dashboard)
+┣ 🖥️ Atliq_AdHoc_SQL_Insights.pptx (presentation)
+┣ 📄 README.md (case study & how-to)
 
-├── SQL/
-│ 
-└── Atliq_AdHoc_Queries_AsimAhmed.sql # All 10 SQL queries
-│
-
-├── Presentation/
-│ 
-└── Atliq_AdHoc_SQL_Insights.pptx # Management-ready slides
-│
-
-├── README.md # Project documentation
 
 ---
 
