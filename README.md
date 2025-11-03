@@ -1,7 +1,26 @@
+![AtliQ Adhoc SQL Insights Cover](assets/cover.png)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PowerPoint-Storytelling-orange?logo=microsoftpowerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Project-black?logo=github"/>
+</p>
+
+<p align="center">
+  <a href="https://app.powerbi.com/links/RBZ00OcqZU?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=1961ad01-fc58-4994-8e81-2b3aeac9f246">
+    <img src="https://img.shields.io/badge/View%20Dashboard%20in%20Power%20BI-0078D4?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  </a>
+  <a href="https://github.com/asimahmedhub/AtliQ-Adhoc-SQL-Insights/blob/main/Atliq_AdHoc_SQL_Insights.pptx">
+    <img src="https://img.shields.io/badge/Download%20Presentation-PPTX-orange?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+  </a>
+</p>
+
 # 📊 AtliQ Ad-hoc SQL Insights  
 
 ## 📝 Project Overview  
-AtliQ Hardwares—India’s leading computer hardware maker with global reach—needed fast, data-backed answers to 10 ad-hoc business questions. I stepped in as a data analyst, wrote validated MySQL queries, analyzed results, and delivered executive-ready insights in Power BI.  
+AtliQ Hardwares—India’s leading computer hardware maker with global reach—needed fast, data-backed answers to 10 ad-hoc business questions.  
+I stepped in as a data analyst, wrote validated MySQL queries, analyzed results, and delivered executive-ready insights in Power BI.  
 
 ---
 
@@ -41,39 +60,34 @@ Key tables include:
 
 ## 🛠️ Tools & Technologies  
 - **SQL (MySQL Workbench)** – querying & analysis  
-- **PowerPoint** – storytelling & presentation design  
-- **GitHub** – version control and project showcase  
+- **Power BI** – visualization & storytelling  
+- **PowerPoint** – presentation & insights communication  
+- **GitHub** – version control and portfolio showcase  
 
 ---
 
 ## 📂 Project Structure  
-📦 AtliQ-Hardwares-SQL-Analytics
+📦 AtliQ-Adhoc-SQL-Insights  
 
-┣ 📝 sql (Q01–Q10 .sql answers)
-
-┣ 📊 AtliQ_AdHoc.pbix (Power BI dashboard)
-
-┣ 🖥️ Atliq_AdHoc_SQL_Insights.pptx (presentation)
-
-┣ 📄 README.md (case study & how-to)
-
+┣ 📝 sql (Q01–Q10 .sql answers)  
+┣ 📊 [Consumer Goods Power BI Report](https://app.powerbi.com/links/RBZ00OcqZU?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=1961ad01-fc58-4994-8e81-2b3aeac9f246)  
+┣ 🖥️ [Atliq_AdHoc_SQL_Insights.pptx](https://github.com/asimahmedhub/AtliQ-Adhoc-SQL-Insights/blob/main/Atliq_AdHoc_SQL_Insights.pptx)  
+┣ 📄 README.md (case study & documentation)  
 
 ---
 
-## 📈 Key Insights 
-- AtliQ increased its unique product portfolio by ~36.33% in FY2021 (from 245 → 334 SKUs).
-
-- Retailer channel drove the majority of gross sales in FY2021 (~69% share).
-
-- Accessories saw the highest product expansion in 2021 (+34 unique products vs. 2020; Notebooks/Peripherals +16 each).
-
-- Several Indian customers received very high average pre-invoice discounts (~29–31%), e.g., Flipkart (~30.8%), Viveks (~30.4%), Croma (~30.3%), Ezone (~30.3%), Amazon (~29.3%)—a potential margin risk
+## 📈 Key Insights  
+- AtliQ increased its unique product portfolio by ~36.33% in FY2021 (from 245 → 334 SKUs).  
+- Retailer channel drove the majority of gross sales in FY2021 (~69% share).  
+- Accessories saw the highest product expansion in 2021 (+34 unique products vs. 2020; Notebooks/Peripherals +16 each).  
+- Several Indian customers received very high average pre-invoice discounts (~29–31%), e.g., Flipkart (~30.8%), Viveks (~30.4%), Croma (~30.3%), Ezone (~30.3%), Amazon (~29.3%) — a potential margin risk.  
 
 ---
 
-## 🎥 Presentation  
-👉 [Download the PPTX presentation](link-to-your-pptx)  
-👉 Or [View PDF version](link-to-pdf-if-you-export)  
+## 🎥 Presentation & Dashboard Access  
+- 📊 **[View Power BI Dashboard](https://app.powerbi.com/links/RBZ00OcqZU?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=1961ad01-fc58-4994-8e81-2b3aeac9f246)**  
+- 🖥️ **[Download the PPTX Presentation](https://github.com/asimahmedhub/AtliQ-Adhoc-SQL-Insights/blob/main/Atliq_AdHoc_SQL_Insights.pptx)**  
+- 📄 *(PDF version can be added later)*  
 
 ---
 
@@ -83,7 +97,4 @@ Key tables include:
 
 ---
 
-⚡ *This project demonstrates my SQL querying, data analysis, and communication skills by solving real-world business problems with clear, actionable insights.*  
-
-
-
+⚡ *This project demonstrates my SQL querying, data analysis, and storytelling skills by solving real-world business problems with clear, actionable insights.*  
