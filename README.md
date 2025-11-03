@@ -70,8 +70,11 @@ Key tables include:
 📦 AtliQ-Adhoc-SQL-Insights  
 
 ┣ 📝 sql (Q01–Q10 .sql answers)  
+
 ┣ 📊 [Consumer Goods Power BI Report]
+
 ┣ 🖥️ [Atliq_AdHoc_SQL_Insights.pptx]
+
 ┣ 📄 README.md (case study & documentation)  
 
 ---
