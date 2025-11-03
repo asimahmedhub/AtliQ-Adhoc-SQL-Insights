@@ -70,8 +70,8 @@ Key tables include:
 📦 AtliQ-Adhoc-SQL-Insights  
 
 ┣ 📝 sql (Q01–Q10 .sql answers)  
-┣ 📊 [Consumer Goods Power BI Report](https://app.powerbi.com/links/RBZ00OcqZU?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=1961ad01-fc58-4994-8e81-2b3aeac9f246)  
-┣ 🖥️ [Atliq_AdHoc_SQL_Insights.pptx](https://github.com/asimahmedhub/AtliQ-Adhoc-SQL-Insights/blob/main/Atliq_AdHoc_SQL_Insights.pptx)  
+┣ 📊 [Consumer Goods Power BI Report]
+┣ 🖥️ [Atliq_AdHoc_SQL_Insights.pptx]
 ┣ 📄 README.md (case study & documentation)  
 
 ---
@@ -87,7 +87,6 @@ Key tables include:
 ## 🎥 Presentation & Dashboard Access  
 - 📊 **[View Power BI Dashboard](https://app.powerbi.com/links/RBZ00OcqZU?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=1961ad01-fc58-4994-8e81-2b3aeac9f246)**  
 - 🖥️ **[Download the PPTX Presentation](https://github.com/asimahmedhub/AtliQ-Adhoc-SQL-Insights/blob/main/Atliq_AdHoc_SQL_Insights.pptx)**  
-- 📄 *(PDF version can be added later)*  
 
 ---
 
