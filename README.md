@@ -1,4 +1,4 @@
-![AtliQ Adhoc SQL Insights Cover](assets/cover.png)
+![[AtliQ Adhoc SQL Insights Cover](assets/cover.png)](https://github.com/asimahmedhub/AtliQ-Adhoc-SQL-Insights/blob/main/AtliQ%20SQL%20Insights%20Overview_cleanup.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white"/>
